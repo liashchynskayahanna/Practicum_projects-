@@ -2,7 +2,7 @@
 
 ## 🛠 Стек и инструменты
 
-- 🐍 **Python**: Pandas, NumPy, Matplotlib, Seaborn, SciPy (t-test, A/B тесты, проверка непотизма)  
+- 🐍 **Python**: Pandas, NumPy, Matplotlib, Seaborn, SciPy (t-test, A/B тесты)  
 - 🗄 **Базы данных и SQL**: PostgreSQL, CTE, оконные функции, агрегаты, фильтрация выбросов  
 - 📈 **BI и визуализация**: Yandex DataLens  
 - ⚙️ **Методы аналитики**: статистический анализ, очистка и подготовка данных, агрегация и визуализация
